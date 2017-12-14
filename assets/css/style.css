@@ -1,0 +1,79 @@
+body{
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	color: white;
+}
+img{
+	height: 100px;
+	padding: 10px;
+}
+button{
+	height: 50px;
+	width: 100px;
+	background-color: white;
+	border:3px solid red;
+	color: red;
+	font-size: 18px;
+	padding
+}
+#characterDiv{
+	display: flex;
+	padding: 10px;
+	text-align: center;
+	padding-left: 70px;
+	color: deepskyblue;
+}
+#anakinDiv{
+    margin: 10px;
+    background-color: ghostwhite;
+    border: 3px solid lightblue;
+    padding: 10px;
+}
+#yodaDiv{
+    margin: 10px;
+    background-color: ghostwhite;
+    border: 3px solid lightblue;
+    padding: 10px;
+}
+#ggDiv{
+    margin: 10px;
+    background-color: ghostwhite;
+    border: 3px solid lightblue;
+    padding: 10px;
+
+}
+#obiDiv{
+    margin: 10px;
+    background-color: ghostwhite;
+    border: 3px solid lightblue;
+    padding: 10px;
+}
+#enemieImgs{
+	width: 125;
+	height: 125px;
+}
+.rightside{
+	float: right;
+    padding-right: 75px;
+    font-size: 32px;
+}
+.leftside{
+	float: left;
+	font-size: 32px;
+	padding-left: 75px;
+}
+.yourC{
+	font-size: 32px;
+	padding-left: 75px;
+	padding-bottom: 10px;
+}
+.fight{
+	padding-bottom: 10px;
+}
+.defender{
+	padding-top: 10px;
+}
+.title{
+	position: relative;
+	left: 50px;
+}
